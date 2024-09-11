@@ -1,0 +1,446 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Early American Government: Ideals and Missed Opportunities
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: September 11, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today
+
+        - Announcements
+        - Finish last lecture and writing exercise
+        - Ideals and missed opportunities in early American government
+        
+- Next class: The Constitution: Checks and Balances, Separation of Powers, and Federalism
+        
+
+## Announcements
+
+- Credit for discussion and writing assignments
+
+        - requires being present for the entire class
+        - I typically allow 5 minutes at the beginning and end of class for late arrivals and early departures
+        - If you arrive more than 5 minutes late or leave more than 5 minutes early, you can not expect full credit for participation
+        
+- Late arrival, early departure - do not disrupt the class
+
+        - If you must arrive late or leave early, please do so quietly and without disrupting the class
+        - Sit as close as possible to the door
+        - Please do not ask me to repeat what you missed
+
+
+
+# Overview 
+
+## Topics
+
+        - Ideals in early American Government?
+        - Missing the Ideal
+        - Evolution of American Government
+        - Thinking about solutions: what is still wrong? what is right?
+
+# Ideals in early American Government?
+
+
+## Purpose and Dangers of Federal Government
+
+The overall questions common to all people are:
+
+- What is the purpose of government?
+- What are the dangers of government?
+
+## Answers
+
+A modern restatement of the philosophy of the Founding, Classical Liberalism:
+
+::: {.custom-style style="font-size: 80px;"}
+
+How can we live together in a society of dignified equals that allows individuals to fully maximize their own potential?
+:::
+
+
+## The starting point: 1775 - 1783
+
+- Every other major government was a monarchy
+
+
+
+## The starting point: 1775 - 1783
+
+- Every other major government was a monarchy
+- Monarchies tend to accumulate power, to become corrupt and abusive
+
+
+## The starting point: 1775-1783
+
+::: {.custom-style style="font-size: 80px;"}
+The American colonies threw off the monarchy 
+::: 
+
+
+## The starting point: 1775-1783
+
+::: {.custom-style style="font-size: 120px;"}
+First step!
+:::
+
+This was only a first step to achieving **classical liberal ideals** of self-government and freedom
+
+
+## The main tension in American politics
+
+::: {.custom-style style="font-size: 120px;"}
+Liberalism versus Authoritarianism
+:::
+
+
+
+## What is classical liberalism?
+
+- Not modern American meaning of liberalism
+
+
+## What is classical liberalism?
+
+- Not modern American meaning of liberalism
+- Enlightenment (especially Scottish Enlightenment) liberalism
+
+
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+
+
+
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+- Limiting the power of government
+- Government exists to protect individual rights 
+
+        - life
+        
+        
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+- Limiting the power of government
+- Government exists to protect individual rights 
+
+        - life
+        - liberty
+        
+        
+## What is classical liberalism?
+
+Enlightenment (especially Scottish Enlightenment) liberalism
+
+- Limiting the power of government
+- Government exists to protect individual rights 
+
+        - life
+        - liberty
+        - property
+
+
+## What is classical liberalism?
+
+::: {.custom-style style="font-size: 120px;"}
+What about the pursuit of happiness?
+:::
+
+
+## What is classical liberalism?
+
+Limiting government power is intended to remove the major obstacle to:
+
+- Allowing individuals to achieve their own goals and desires
+
+## What is classical liberalism?
+
+Limiting government power is intended to remove the major obstacle to:
+
+- Allowing individuals to achieve their own goals and desires
+- Individual empowerment
+
+
+## What is classical liberalism?
+
+Limiting government power is intended to remove the major obstacle to:
+
+- Allowing individuals to achieve their own goals and desires
+- Individual empowerment
+- To pursue happiness
+
+
+
+## What is classical liberalism?
+
+- Limiting government power is intended to remove the major obstacle to the pursuit of happiness.
+
+- A limited government that tries to provide happiness would need to accumulate power and would eventually become tyrannical.
+
+
+
+## What is classical liberalism?
+
+- Classical liberalism favors self-government: maximizing consent and minimizing coercion
+
+
+
+
+
+## What is classical liberalism?
+
+- Classical liberalism favors self-government: maximizing consent and minimizing coercion
+- Authoritarianism favors centralized power: the use of violent coercion to compel compliance with authority
+
+
+
+## Liberal vs Authoritarian
+
+- Liberalism: freedom from violent coercion, maximizing individual rights
+- Authoritarianism: security & conformity, maximizing collective power
+
+
+
+## What is self-government?
+
+::: {.custom-style style="font-size: 120px;"}
+What is self-government?
+:::
+
+
+## What is self-government?
+
+What is self-government?
+
+Two parts:
+
+- individual's govern their own behavior
+
+
+## What is self-government?
+
+::: {.custom-style style="font-size: 120px;"}
+Ability to act free from violent coercion is literally the individual governing one’s self
+:::
+
+## What is self-government?
+
+What is self-government?
+
+- Individual's govern their own behavior
+- **Participation in government**
+
+## What is self-government?
+
+- What is self-government?
+- Individual's govern their own behavior
+- Participation in government
+- **Both are radical departures from monarchy**
+
+
+## What is self-government?
+
+- What is self-government?
+- Ability to act free from violent coercion is literally every individual governing themselves
+- Participation in government is the other part
+- Both are radical departures from monarchy
+
+## How can we achieve self-government?
+
+::: {.custom-style style="font-size: 120px;"}
+Splitting up power – to avoid any one person or group from becoming like a monarch or tyrant
+:::
+
+
+## How can we achieve self-government?
+
+Splitting up power was the primary focus of the American Founding after the Revolution
+
+    - State vs Federal
+    - Different branches of government
+    
+    
+
+## What about other issues?
+
+- The focus on splitting up power missed some other issues
+- Some of this was compromise
+
+    - 14 of the states were independent nations before becoming states
+    - Federal government needs enough power but not too much (Constitutional Convention)
+    - Preventing bad long-term decisions (Amendment process, Bill of Rights)
+
+
+
+
+
+# Missing the Ideal 
+
+## Why do we care?
+
+- What are the lessons for our own time?
+- What issues do we need to continue fixing?
+- Or do we throw it all out?
+
+
+## Early Problems with American Government
+
+- Slavery
+- Limited rights of women
+- Limited voting
+
+## Why were these problems?
+
+::: {.custom-style style="font-size: 120px;"}
+Aside from the moral question, **What was the big issue that all of these shared?**
+:::
+
+
+## Why were these problems?
+
+- **They conflict with classical liberal ideals!**
+
+
+## Why were these problems?
+
+- **They conflict with classical liberal ideals!**
+- **America was imperfect by its own standards**
+
+
+## America started out imperfect
+
+- **America was imperfect by its own standards**
+- **Some of this was compromise**
+
+
+
+## Slavery and Classical Liberal ideals
+
+- Slavery conflicts with the ideal of individual liberty
+
+
+
+## Slavery and Classical Liberal ideals
+
+- Slavery conflicts with the ideal of individual liberty
+- Slavery **conflicts with the basis of property rights**
+
+        - The basis of property rights is that individuals own themselves and their labor
+        - The product of their labor is their property
+        - Taking the product of someone else's labor other than by voluntary exchange is violating their right to property
+
+
+## Limited rights of women
+
+- Women's rights to own property were severely restricted
+- This **necessarily** restricted their liberty
+- There were explicit restrictions on women's liberty
+
+## Limited voting
+
+- Voting was
+
+    - Restricted to land owners
+    - Restricted by race
+    - Restricted by gender
+
+
+
+
+# Evolution of American Government
+
+## Moving forward
+
+- **Even A lot of the Founders recognized the problems**
+- **Evolution and future solutions were expected - Amendments**
+
+## How have some of these problems evolved?
+
+- Slavery 1865^[But this didn't resolve issues of race]
+- Property rights for women - 1900^[State by state]
+- Voting rights - 1865, 1920, 1969^[https://en.wikipedia.org/wiki/Timeline_of_voting_rights_in_the_United_States]
+
+
+
+# Thinking about solutions
+
+## Solutions? What is still wrong? What is right?
+
+
+- Work to fix remaining (classical) liberal inconsistencies and contradictions? Rethink exact limits and role of government in a basically liberal framework?
+       
+        - Traditional Republicans and Democrats
+        - Libertarians
+        - Forward Party 
+
+
+## Solutions? What is still wrong? What is right?
+
+- Retain the liberal structure
+- Some other standard - some form of authoritarianism?
+
+        - Populist Economic Nationalism (Trumpism)
+        - Populist Socialism (Sanders, The Squad)
+        
+- How much of the current structure should remain? How much is safe to tinker with? Increase or decrease liberalism (limits on power)?
+
+
+## Solutions? What is still wrong? What is right?
+
+- New problem: Massive new restrictions on individual empowerment at the federal level
+
+        - Surveillance state
+        - Censorship of speech and assembly
+        - Economic restrictions
+        - Political restrictions
+        - Social restrictions 
+        - Cultural restrictions
+        - Educational restrictions
+        - Health restrictions
+        - Environmental restrictions
+        - Technological restrictions
+        - Religious restrictions
+
+
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
