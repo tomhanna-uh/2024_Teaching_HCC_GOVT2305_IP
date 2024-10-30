@@ -1,0 +1,315 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 16: Congress Part II
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+## Overview
+
+- Types of bills
+- Types of laws
+- Congressional Rules and Operation
+- Committees
+- Leadership
+- Relationship to other branches of government
+- Other aspects of Congressional Organization
+
+## Types of bills
+
+- Public bills
+- Private bills
+- Joint resolutions
+- Concurrent resolutions
+- Simple resolutions
+
+
+
+
+
+
+## Types of Bills
+
+- Public Bills:
+
+        - These bills apply to the general public and propose laws that affect the entire nation. Examples include tax laws, healthcare reform, or national defense authorizations.
+        
+- Private Bills: 
+
+        - Deal with individual matters, such as immigration cases or claims against the government. They affect specific individuals or organizations.
+        
+- Joint Resolutions: 
+
+        - Essentially the same as bills, and if passed, have the force of law. Often used for proposing constitutional amendments or declaring war.
+        
+- Concurrent Resolutions: 
+
+        - Used to express the opinion of both the House and Senate, but they do not have the force of law and do not require the President's signature. Often used for budgetary purposes or to set a date for adjournment.
+        
+- Simple Resolutions: 
+
+        - Deal with matters entirely within the authority of one house of Congress. They do not have the force of law and are not sent to the President. Used for things like establishing rules of procedure within a chamber.
+
+
+
+## Types of Laws
+
+- Statutory
+- Constitutional 
+- Common law
+
+
+
+        
+## Types of Laws
+
+- Statutory Laws: passed by Congress
+
+        - These are the laws passed by Congress and are codified in the United States Code. 
+        - They cover a wide range of issues, from criminal justice to environmental protection.
+
+- Constitutional Law: not passed by Congress (Constitution and the courts)
+
+        - This is the supreme law of the land, derived from the U.S. Constitution. 
+        - It outlines the structure of government, fundamental rights, and the limits of governmental power.
+        - Generally interpreted by the judiciary, especially the Supreme Court not by Congress
+
+- Common law: not passed by Congress (the courts)
+
+        - judge made law, not made by Congress
+        - inherited from England's common law as of 1791
+        - referenced in the Constitution, specifically Amendment 7
+        
+        
+## Congressional Rules and Operation: Committees
+
+- Types of Committees
+- The Roles of Committees
+- Importance of the Committee System
+- Conference Committees
+- Major Committees in Congress
+        
+
+## Congressional Rules and Operation: Types of Committees 
+
+
+- Standing Committees: Permanent committees that focus on specific policy areas (e.g., agriculture, finance, foreign affairs). They have legislative jurisdiction, meaning they can propose and amend bills.
+- Select Committees: Temporary committees created for a specific purpose, such as investigating an issue or conducting a study.
+- Joint Committees: Include members from both the House and Senate. They often focus on issues of common concern (e.g., taxation, the economy).
+Key Roles of Committees:
+
+## Congressional Rules and Operation: Roles of Committees 
+
+- Drafting Legislation: 
+
+        - Committees are where bills are initially written, debated, and revised. They hold hearings to gather information and hear from experts.
+
+- Conducting Oversight: 
+
+        - Committees monitor the activities of executive branch agencies to ensure they are implementing laws effectively and responsibly.
+
+- Holding Hearings: 
+
+        - Committees hold public hearings to gather information on important issues, investigate problems, and provide a forum for public input.
+        
+        
+## Congressional Rules and Operation: Importance of the Committee System:
+
+- Expertise:
+
+        - Committees allow members of Congress to specialize in specific policy areas, developing in-depth knowledge.
+
+- Efficiency: 
+
+        - Dividing the workload among committees allows Congress to address a wide range of issues simultaneously.
+        
+- Public Input: 
+
+        - Committee hearings provide an opportunity for the public to voice their concerns and contribute to the legislative process.
+
+
+## Congressional Rules and Operation: Conference Committees
+
+- Conference Committees: Temporary committees formed to reconcile differences between House and Senate versions of the same bill. They are composed of members from both chambers and are tasked with reaching a compromise that can be approved by both houses.
+
+
+## Congressional Rules and Operation: Major Committees in Congress
+
+- House Ways and Means Committee: 
+
+        - Responsible for tax policy, trade, and Social Security.
+        - Arguably the most powerful and important committee in the United States Congress
+
+- House Rules Committee: 
+
+        - Determines the rules for debate and amendment of bills on the House floor.
+        
+- House Judiciary Committee: 
+
+        - Oversees the federal court system, civil liberties, and constitutional amendments.
+        
+        
+## Congressional Rules and Operation: Major Committees in Congress
+        
+- House Appropriations Committee: 
+
+        - Responsible for allocating federal funds to government agencies and programs.
+        
+House Intelligence Committee: 
+
+        - Oversees the intelligence community and national security.
+        
+
+        
+## Congressional Rules and Operation: Major Committees in Congress
+        
+- Senate Finance Committee: 
+
+        - Similar to the House Ways and Means Committee, with jurisdiction over tax policy and trade.
+        
+- Senate Foreign Relations Committee:
+
+        - Oversees U.S. foreign policy, international treaties, and diplomatic relations.
+        - Responsible for confirming ambassadors and other high-level diplomatic appointments.
+        
+- Senate Judiciary Committee:
+
+        - Similar to the House Judiciary Committee, with oversight of the federal court system and civil liberties.
+        - Also responsible for the first stage of confirming federal judges and Supreme Court nominees.
+
+        
+        
+
+
+
+
+## Congressional Rules and Operation: Leadership
+
+- Leadership in the House of Representatives
+- Leadership in the Senate
+
+
+## Congressional Rules and Operation: Leadership in the House of Representatives
+
+- Speaker of the House: 
+
+        - The presiding officer of the House, elected by the members. The Speaker is the most powerful member of the House and plays a key role in setting the legislative agenda.
+        
+- Majority/Minority Leaders: 
+
+        - The leaders of the majority and minority parties in the House. They help shape party strategy, coordinate legislative efforts, and communicate with members.
+        
+## Congressional Rules and Operation: Leadership in the House of Representatives
+        
+- Whips:
+
+        - Assist the majority and minority leaders in managing party members and ensuring they vote in line with party priorities.
+        
+- Committee Chairs: 
+
+        - The leaders of standing committees, responsible for overseeing committee operations, setting agendas, and guiding the legislative process.
+
+
+## Congressional Rules and Operation: Leadership in the Senate
+
+- President of the Senate: 
+
+        - The Vice President of the United States serves as the President of the Senate but can only vote in the event of a tie.
+        
+- President pro tempore: 
+
+        - A senior member of the majority party who presides over the Senate in the absence of the Vice President.
+        
+- Majority/Minority Leaders:
+
+        - The leaders of the majority and minority parties in the Senate. They play a key role in shaping party strategy, coordinating legislative efforts, and communicating with members.
+        
+
+
+
+
+# Relationship to Other Branches
+
+- Executive Branch: 
+
+        - Oversight 
+        - Impeachment
+        - Confirmation of Executive Appointments
+        - Power of the purse
+        - War Powers
+        
+- Judicial Branch:
+
+        - Judicial Review
+        - Confirmation of Federal Judges
+        - Impeachment of Judges
+        - Sets jurisdiction of courts
+        - Establishes lower courts
+        
+# Relationship to Other Branches
+
+- Executive Agencies:
+
+        - Many laws passed by Congress set broad goals and guidelines, but delegate authority to executive agencies to implement regulations and enforce them.
+
+- Example, Drug Enforcement Administration (DEA):
+
+        - Congress passed the Drug Enforcement Act, but delegated the task of scheduling specific drugs by potential for abuse to the DEA.
+        - The DEA has the authority to schedule drugs, but Congress can override their decisions.
+        - The schedule of drugs determines restrictions on their medical use and penalties for criminal violations.
+
+
+## Other aspects of Congressional Organization
+
+- Congressional Budget Office (CBO): 
+
+        - Provides nonpartisan analysis of budgetary and economic issues to Congress.
+        
+- Government Accountability Office (GAO):
+
+        - Conducts audits and investigations of federal programs and spending to ensure accountability and efficiency.
+        
+- Congressional Research Service (CRS):
+
+        - Provides research and analysis on legislative issues to Congress, including legal and policy analysis, reports, and briefings.
+        - Part of the Library of Congress.
+        
+
+    
+        
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+        
