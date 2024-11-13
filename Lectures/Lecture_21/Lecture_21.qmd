@@ -1,0 +1,224 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 20: The Bureaucracy
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+## Bureacracy: Introduction
+
+![Bureaucracy](long_line.png)
+
+
+## Bureacracy: Questions about the Bureaucracy
+
+- What is Bureaucracy?
+- Is bureaucracy necessary?
+- Is bureaucracy efficient?
+- How does the bureaucracy work?
+- Who controls the bureaucracy?
+- What are the dangers of bureaucracy?
+
+## What is Bureaucracy?
+
+- Definition: A system of government in which most of the important decisions are made by career professionals rather than by elected representatives.
+- Characteristics: 
+
+        - Hierarchical structure
+        - Specialization
+        - Rules and procedures
+        - Impersonality
+        - Expertise
+        
+
+
+- Purpose: Implementation, service provision, accountability.
+
+
+
+## Bureaucracy in the Constitution
+
+- Constitutional Foundations
+
+        - The word is never mentioned
+        - Article II: President's power to appoint officers and to require reports from them. 
+        - Political appointment was assumed
+        
+
+
+## Origins and Evolution
+
+- Key periods of growth and change.
+
+        - Early Republic: Small, limited bureaucracy.
+        - Civil War and Reconstruction: Expansion of federal agencies.
+        - Progressive Era: Creation of regulatory agencies.
+        - New Deal: Massive growth in response to the Great Depression.
+        - Post-WWII: Continued expansion and specialization.
+        - Modern Era: Focus on efficiency, accountability, and reform.
+
+
+## Who Does the Bureaucracy Answer To?
+
+- Political appointees (~4,000; ~1,200 with Senate confirmation)
+- Civil Service System (over 2 million employees)
+
+
+
+## Who Does the Bureaucracy Answer To?
+
+ Political appointees
+        
+        - President
+        - Cabinet Secretaries
+        - Agency heads
+        - Political appointees are responsible for setting policy and direction.
+        - They are also responsible for oversight and accountability.
+        - They are not responsible for day-to-day operations.
+        
+
+
+## Who Does the Bureaucracy Answer To?
+
+- Civil service system
+
+        - grew as reaction to 1800s spoils system
+        - nonpartisan
+        - professional
+        - career employees
+        - protected from political influence, firing for political reasons
+        - merit-based hiring and promotion
+        - Hatch Act: limits political activities of civil servants
+        - Whistleblower protections
+
+
+## Question
+
+> Given that civil service appointees are exempt from firing or discipline for policy disagreements, how does this fit with the idea of the elected President as the head of the executive branch?
+
+
+
+## Bureaucracy and the Executive Branch
+
+- Cabinet Departments: 15 Cabinet departments, each headed by a Secretary (or the Attorney General for Justice Department)
+- Independent Agencies: Unique nature and relationship to the President.
+
+
+## Cabinet Departments
+
+![Cabinet Departments](cabinet.jpg)
+
+## Cabinet Departments: Structure Example
+
+![Labor Department](labor_department.jpg)
+
+
+
+
+http://www.netage.com/economics/gov/catalog-org-charts.html
+
+
+## Independent Agencies
+
+- Independent Executive Agencies
+- Independent Regulatory Commissions
+- Government Corporations
+
+
+## Independent Executive Agencies
+
+- Part of the executive branch.
+- Subject to (some) Presidential control
+- Similar to Cabinet Departments (civil service rules, etc.)
+
+## Independent Executive Agencies: Examples
+
+![NASA](nasa.png)
+![EPA](epa.png)
+![CIA](cia.png)
+
+
+## Independent Regulatory Commissions
+
+- Created by Congress to regulate specific areas of the economy or society.
+- independent of the executive branch
+- Bipartisan boards or commissions
+- Often have quasi-judicial powers
+- Quasi-legislative powers
+
+
+## Independent Regulatory Commissions: Examples
+
+![Federal Trade Commission](ftc.png)
+![Securities and Exchange Commission](sec.png)
+
+
+
+## Government Corporations
+
+- Created by Congress to provide a service or product that could be provided by the private sector.
+- Operate like a business
+- Subject to some Presidential control
+
+
+## Government Corporations: Examples
+
+
+![United States Postal Service USPS](post_office.jpg)
+![Fannie Mae and Freddie Mac](fannie_freddie.png)
+![Amtrak](amtrak.jpg)
+
+
+
+## Question
+
+> How do the independent agencies, commissions and government corporations fit in the Constitutional structure of three branches of government? Consider separation of powers and checks and balances.
+
+![Three Branches](three_branches.jpg)
+
+
+
+
+## Question
+
+> Given that independent agencies typically can't be removed for political reasons, how does this fit with the ideals of democracy and accountability to voters?
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+

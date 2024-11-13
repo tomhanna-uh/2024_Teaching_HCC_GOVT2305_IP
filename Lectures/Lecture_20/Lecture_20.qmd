@@ -1,0 +1,256 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 20: The Presidency
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+date: today
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+## Introduction
+
+- The U.S. Presidency: Powers, Limits, and Evolution
+
+        - Current Powers
+        - Limits on Power
+        - Relationship with Other Branches and States
+        - Evolution of Power
+
+
+## Current Powers
+
+- **Chief Executive**
+- **Legislative Leader**
+- **Judicial Powers**
+- **Commander-in-Chief**
+- **Chief Diplomat**
+
+
+## Current Powers: Chief Executive
+
+- **Chief Executive** 
+    - Enforces federal laws
+    - Appoints officials
+    - Issues executive orders (policy directives with force of law)^[We will cover this more in the sections on policy and the bureaucracy]
+    - Issues signing statements
+    
+    
+## Current Powers: Legislative Leader    
+- **Legislative Leader**
+    - Proposes legislation
+    - Vetoes bills
+    - Delivers State of the Union
+    
+## Current Powers: Judicial Powers
+- **Judicial Powers**
+    - Nominates judges
+    - Grants pardons
+    
+## Current Powers: Foreign Policy and Defense    
+- **Commander-in-Chief**^[We will discuss all of these more in the section on foreign policy]
+    - Commands armed forces
+    - Deploys troops
+- **Chief Diplomat**
+    - Represents U.S. in foreign affairs
+    - Negotiates treaties
+
+
+
+## Limits on Power: Why limit Presidential power?
+
+>If a President has majority support from the people and from a majority of states, why should we limit Presidential power? 
+
+There are at least two major reasons related to the nature of power and the nature of democracy that we have discussed. There is another major reason related to the nature of the U.S. Constitution.
+
+## Limits on Power: Why limit Presidential power?
+
+- **Nature of government**
+
+        - Political power is the power to commit violence
+        - Use of power should be appropriate to the situation
+        
+## Limits on Power: Why limit Presidential power?
+        
+- **Nature of democracy**
+
+        - Consensual not majoritarian democracy
+        - Political minorities (members of losing parties) still have rights
+        - Political minorities are still entitled to representation
+        
+## Limits on Power: Why limit Presidential power?
+        
+- **Nature of the U.S. Constitution**
+        
+        - The Constitution limits the President's power
+        - This is important because....
+        
+## Why is it important to respect Constitutional limits?
+
+
+
+## Why is it important to respect Constitutional limits?
+
+- **Nature of the U.S. Constitution**
+        - The Constitution limits the President's power
+        - This is important because...
+        
+> If we ignore parts of the Constitution that we don't like, we weaken all the protections that the Constitution provides for us. 
+
+
+
+## Limits on Power
+
+- **Congressional Oversight**
+- **Judicial Review**
+- **Public Opinion**
+
+
+## Limits on Power: Congressional Oversight
+
+- **Congressional Oversight**
+    - Impeachment
+    - Veto override
+    - Funding control
+    
+## Limits on Power: Judicial Review
+
+- **Judicial Review**
+    - Courts can declare actions unconstitutional
+
+
+## Limits on Power: Public Opinion
+
+- **Public Opinion**
+    - Accountability through elections
+    
+    
+
+## Relationship with Other Branches and States: Congress
+
+
+
+- Shared powers in foreign policy 
+
+        - appointment of Ambassadors
+        - treaties
+        - war powers
+
+- Shared powers in domestic policy 
+
+        - cooperation on legislation
+        - budget proposal
+        - appointment of Department heads
+        - enforcement of laws
+- Checks and balances 
+
+        - veto
+        - impeachment
+
+## Relationship with Other Branches and States: Judiciary
+
+- Judicial review of Presidential actions
+- Judicial appointments
+- Department of Justice, Attorney General, Solicitor General bring and respond to cases
+- President signs the budget including Courts
+
+## Relationship with Other Branches and States: States
+
+- Respect for state powers
+- National Guard
+- enforcing federal court orders
+- disbursing federal funding
+- emergency management
+
+
+
+## Evolution of Power
+
+- **National Crises:** Expansion of power during crises
+
+        - Civil War
+        - Great Depression
+        - World Wars
+        - Cold War (Vietnam, Korea, other events)
+        - War on Terror
+
+
+## Evolution of Power
+- **Technological Advances:** Increased influence via media that reach the public quickly and directly
+
+        - Radio
+        - Television
+        - Internet
+        - Social Media
+        
+        
+## Evolution of Power
+- **Congressional Delegation:** 
+
+        - Increased executive authority
+        - Increased executive discretion
+
+
+## Evolution of Power
+- **Public Expectations:** 
+
+- Changing expectations of President and national government
+        
+        - Representative of the states --> Representative of the entire
+        - Presiding over the government --> Solving national problems
+        - Limited government --> Active government
+        - National government - National problems --> National government - All problems
+        - Chief executive --> Chief legislator (blurring of separation of powers)
+
+
+
+## Conclusion
+
+- Powerful institution, critical role
+- Powers evolved over time
+- Understanding essential for civic engagement
+
+
+## Resources
+
+- The White House: [White House brief on the Executive Branch](https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/)
+- National Constitution Center: [Article II of the COnstitution](https://constitutioncenter.org/the-constitution/articles/article-ii)
+- Truman Library: [What Presidents Can Do; What Presidents Cannot Do](https://www.trumanlibrary.gov/education/three-branches/what-president-can-do-cannot-do)
+
+
+    
+      
+        
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+
