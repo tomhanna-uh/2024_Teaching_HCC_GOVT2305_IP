@@ -1,0 +1,269 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 22: Foreign Policy
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Announcements & Agenda
+
+## Announcements
+
+- Exam 3 will be December 2
+- Module 4 Quiz will be online
+- Final Exam is December 9 at the time in the HCC Schedule
+
+## Agenda
+
+- Today: Foreign Policy
+- Wednesday
+
+        - Domestic Policy
+        - Executive Orders
+        - Short review for Module 3 Exam
+
+
+
+# The Goals of Foreign Policy
+
+## What is Foreign Policy?
+
+*   Programs & Policies
+*   Relationships with other nations
+*   Includes: Diplomacy, Military, Security, Trade, Aid, & More
+
+
+
+## Foreign Policy Today
+
+-   Nation-States
+-   Non-State Actors
+
+        - Multinational Corporations
+        - Nongovernmental Organizations
+        - Non-state armed groups (rebel and terrorist groups)
+        - Organized crime groups
+
+- International Organizations
+
+
+
+
+## Goals of U.S. Foreign Policy
+
+- Security 
+
+        - Primariily American security
+        - Security of allies
+        
+- Prosperity
+
+        - Economic growth
+        - Access to resources
+        - Access to markets
+        
+- A Better World
+
+        - Human rights
+        - Democracy promotion
+        - Peaceful resolution of disputes
+        - Environmental protection
+        - US is a major contributor to international organizations
+
+
+
+
+## Security Policies Throughout History
+
+-   Isolationism (before World War I and again after WWI)
+-   Appeasement (before World War II 1939-1945)
+-   Containment (Cold War 1946-1991)
+-   Deterrence  (Cold War 1946-1991)
+-   Collective Action & Restraint (Post Cold War)
+
+        - Iraq-Kuwait First Gulf War 1990-1991
+        - NATO actions in former Yugoslavia
+        - NATO action in Libya
+        
+-   Preventive War (Iraq 2003)
+
+
+
+## Other Foreign Policy Goals
+
+-   Environmental Policy
+-   Human Rights Policy
+-   Peacekeeping
+-   Expanding markets
+
+
+
+
+
+# Who Makes American Foreign Policy?
+
+## Key Players
+
+-   President & Advisors
+-   Bureaucracy (State, Defense, CIA)
+-   Congress
+-   Courts (rarely)
+-   Political Parties (limited)
+-   Interest Groups 
+-   Trade Associations 
+
+## The Bush Doctrine
+
+-   Preemptive Action
+
+        -  No need to wait for a first strike
+        -  No need to find a "smoking gun"
+        -  Iraq 2003
+        -  Afghanistan 2001
+
+
+
+## The President
+
+- Executive Agreements
+
+        -   Partially Bypassing Congress
+        -   Not a Treaty
+        -   Not a law
+
+- Treaties
+
+        -   Requires Senate Approval
+        -   Supreme law of the land, second only to the Constitution
+        
+        
+        
+## Bureaucracy's Role
+
+-   Secretaries of State, Defense, Treasury
+-   Joint Chiefs of Staff
+-   CIA Director
+-   National Security Council
+
+
+## Congress as Foreign Policy Maker
+
+-  Increased Role Since WWII
+-  Oversight role verging on management
+
+
+## Interest Group Influence
+
+-   Economic Groups
+-   Ethnic/National Groups
+-   Human Rights Groups
+-   Environmental Groups
+
+
+
+# Instruments of Modern American Foreign Policy
+
+## Diplomacy
+
+-   Representation to Other Governments
+-   Overshadowed by Major Events
+
+## The Post Cold War Liberal Order
+
+- The United Nations (UN)
+
+        - US, UK, France, Russia, China (Security Council)
+        - General Assembly
+
+- International Financial Institutions
+
+        -   World Bank
+        -   International Monetary Fund (IMF)
+        
+- Trade Agreements
+
+        -   World Trade Organization (WTO)
+        -   Regional Agreements
+        
+- Security Arrangements
+
+        -   NATO
+        -   SEATO
+        -   Collective Security Treaties
+        
+        
+
+
+
+
+
+
+
+# Current Foreign Policy Issues
+
+## Major Powers
+
+*   China's Rise
+*   Military & Economic Power
+*   Blunting China's Ambitions
+
+## Nuclear Proliferation
+
+*   Iran
+*   North Korea
+
+## Trade
+
+-   Trade has been shown to reduce violent conflict (war) between trading partners
+-   Free trade has been shown to reduce poverty and increase economic growth in both trading partners
+-   The cost of trade to marginal producers is much less than the benefits to consumers including producers who use intermediate goods
+-  Trade can be used as a tool to promote human rights and environmental protection (The California effect)
+
+
+## Global Environmental Policy
+
+-   International Efforts
+
+        -  Paris Climate Agreement
+        -   Kyoto Protocol
+        -   Montreal Protocol
+
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+
