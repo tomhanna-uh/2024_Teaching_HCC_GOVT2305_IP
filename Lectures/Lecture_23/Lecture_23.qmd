@@ -1,0 +1,210 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 23: Domestic Policy
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+## Agenda and Announcements
+
+- Today
+
+        - Domestic Policy
+        - Review of Module 3
+        
+- No class next wee
+- December 2 - Exam 3
+- December 4 - Courts and Final Review
+- December 6 - Module 4 Quiz (Online)
+- December 9 - Final Exam (In class)
+
+
+# Domestic Policy
+
+## What is Domestic Policy?
+
+
+## Who makes Domestic Policy?
+
+- Congress
+- The Bureaucracy
+- The President
+
+## What is the role of Congress in Domestic Policy?
+
+> "All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives." - U.S. Constitution, Article I, Section 1
+
+## What is the role of Congress in Domestic Policy?
+
+- Legislation = law making
+- Oversight of the executive branch
+- Budgeting and appropriations
+
+
+## What is the role of the Bureaucracy in Domestic Policy?
+
+- Agency rule making process
+
+        - Notice of proposed rule making
+        - Public comment period
+        - Final rule (published in the Federal Register)
+        - Final rules have the force of law
+
+
+## What is the role of the President in Domestic Policy?
+
+- Appointing agency heads, department secretaries, and other politically appointed officials
+- Setting a policy agenda consistent with campaign promises
+- Executive Orders
+
+## Executive Orders
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JUDSeb2zHQ0?si=NLgrCipFfFI6bunh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[How a Bill Does NOT Become a Law](https://youtu.be/JUDSeb2zHQ0?si=q9RqLXFMWKOf8U1H)
+
+## Executive Orders
+
+- Directives issued by the President that have the force of law
+- Can be challenged in court
+- Can be overturned by Congress (but requires a veto-proof majority)
+- Can be overturned by the next President with the stroke of a pen (new executive order)
+
+## Examples of Executive Orders
+
+- Emancipation Proclamation
+- Executive Order 9066 (Japanese internment)
+- Executive Order 9981 (Desegregation of the military)
+- Executive Order 12333 (Prohibition on assassination of heaads of state)
+- Executive Order 13526 (Classified National Security Information)
+- Executive Order 13769 (Trump travel ban)
+
+## Numbers of executive orders by President (since 1937)
+
+**Great Depression to Vietnam War**^[https://www.federalregister.gov/presidential-documents/executive-orders]
+
+- Franklin D. Roosevelt: 2,023 over 8 years (World War II and Great Depression)
+- Harry Truman: 906 over 8 years (WWII and Korean War)
+- Dwight D. Eisenhower: 484 over 8 years (Cold War)
+- John F. Kennedy: 214 over 3 years (Cold War)
+- Lyndon B. Johnson: 325 over 5 years (Vietnam War)
+- Richard Nixon: 346 over 5 years (Vietnam War)
+
+## Numbers of executive orders by President (since 1937)
+
+**post-Vietnam to 2000**
+
+- Gerald Ford: 169 over 2 years (Post-Watergate, Cold War)
+- Jimmy Carter: 320 over 4 years (Post-Watergate, Cold War)
+- Ronald Reagan: 381 over 8 years (Cold War)
+- George H.W. Bush: 166 over 4 years (Post-Cold War)
+- Bill Clinton: 364 over 8 years (Post-Cold War)
+
+
+
+
+## Numbers of executive orders by President (since 1937)
+
+**War on Terror through Covid**
+
+- George W. Bush: 291 over 8 years (War on Terror)
+- Barack Obama: 276 over 8 years (Great Recession)
+- Donald Trump: 220 over 4 years (Post-Great Recession and Covid pandemic)
+- Joe Biden: 143 over 4 years (Covid)
+
+
+## Module 3 Review
+
+- The Presidency and The Executive Branch
+
+        - Powers
+        - Limits on power
+        - Roles of the President
+        - Constitutional role
+        - How has the Presidency changed over time?
+        - Relationship of the President to the other branches of government
+        
+## Module 3 Review
+        
+- The Bureacracy
+
+        - What is the bureaucracy?
+        - How does the bureaucracy work?
+        - What are the functions of the bureaucracy?
+        - How does the bureaucracy interact with the other branches of government?
+        - What are the limits on the bureaucracy?
+        - Who does the bureacracy answer to and how?
+        - Civil Service Reform
+  
+## Module 3 Review
+
+- Foreign Policy
+
+        - What is foreign policy?
+        - Who makes foreign policy?
+        - What is the role of Congress in foreign policy?
+        - What is the role of the President in foreign policy?
+        - What are some of the key issues in foreign policy today?
+        - What are some of the key foreign policy tools (instruments of US foreign policy)?
+        - What is the role of the media in foreign policy?
+        - What is the role of public opinion in foreign policy?
+
+
+## Module 3 Review 
+
+- Domestic Policy
+
+        - What is domestic policy?
+        - Who makes domestic policy?
+        - What is the role of Congress in domestic policy?
+        - What is the role of the bureaucracy in domestic policy?
+        - What is the role of the President in domestic policy?
+        - What are executive orders and how do they work?
+        - Examples of executive orders
+        - Numbers of executive orders by President (since 1937)
+        - What are some of the key issues in domestic policy today?
+
+
+
+
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+
+
