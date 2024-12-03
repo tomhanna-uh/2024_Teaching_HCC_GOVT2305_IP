@@ -1,0 +1,328 @@
+---
+title: |
+    | GOVT2305: Federal Government
+    | Lecture 24: Courts Overview and Final Exam Review
+author:
+  - name: Tom Hanna
+    id: th
+    orcid: 0000-0002-8054-0335
+    email: tom.hanna@hccs.edu
+    url: tomhanna.me
+    affiliation: 
+      - name: Houston Community College
+        city: Houston
+        state: TX
+        url: uh.edu/class/political-science/
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                slide-number: true
+                preview-links: true 
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Fall 2024, Instructor: Tom Hanna"
+---
+
+
+
+# Structure of the Federal Courts
+
+## Constitutional Basis
+
+Article III, Section 1 of the Constitution:
+
+> The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.
+
+
+## District Courts
+
+-   Trial courts with **original jurisdiction**.
+-   94 district courts across the country.
+
+        - At least one district in each state
+        - A district in the District of Columbia
+        - A district in Puerto Rico
+        
+## Original jurisdiction
+
+- The authority to hear a case for the first time.
+- Generally the only court to make decisions on **matters of fact** (hear evidence)
+- Judge makes decisions on **matters of law** which may be appealed to higher courts.
+
+## Decider of fact vs. Decider of law
+
+-  **Decider of fact**: Determines what happened in a case.
+
+        - Did the defendant commit the crime?
+        - Did the defendant breach the contract?
+        - Did the defendant cause the accident?
+        
+- **Decider of law**: Determines how the law applies to the facts.
+
+        - What law applies to the case?
+        - What is the legal standard for determining guilt?
+        - What is the legal standard for determining liability?
+        - Are there any legal defenses that apply?
+        - What precedents apply to the case?
+
+## Courts of Appeals
+
+-   Appellate courts reviewing district court decisions.
+-   13 circuit courts with regional jurisdiction.
+-   No new evidence or witnesses.
+
+## Appellate jurisdiction
+
+- The authority to review decisions made by lower courts.
+- Generally only reviews **matters of law**.
+- Can affirm, reverse, or remand (send back) the case to the lower court.
+- Decisions are binding on lower courts in the same circuit as **precedent**. 
+
+## Precedent
+
+- A legal principle established in a court decision that is binding on future decisions in similar cases.
+- **Stare decisis**: The principle that courts should follow precedent.
+
+## Supreme Court
+
+>In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
+
+
+## Supreme Court
+
+-   Highest court with final **appellate**authority.
+
+        - Supreme Court decisions are final.
+        - Supreme Court precedents are binding on all lower courts including state courts.
+
+-   Limited number of cases heard each year.
+
+        - Constitution requires that there be a live case or controversy - No advisory opinions allowed
+        - Court has discretion to hear cases.
+        - Generally only hears cases where there is a conflict between circuits or a constitutional issue.
+        - 4 of the nine justices have to agree for a **writ of certiorari** to be granted and the case to be heard.
+        
+- Limited original jurisdiction.
+
+        - Cases involving ambassadors, public ministers, and consuls.
+        - Cases between states.
+
+# Final Exam Review
+
+## Exam Format
+
+- **9 AM, Monday, December 9**
+- **You may not begin the test after the first person finishes, so be on time!**
+- Same as previous exams: multiple choice, multiple answer, true-false
+- 3 points per question
+- 56 questions, 168 points, 75 minutes
+- 2 Extra Credit questions
+- On Canvas, in the classroom unless you tell me in advance to make a paper copy
+- Closed book, closed notes
+- **No makeup exams**
+
+## Study Tips 
+        
+- **Study the prior exams**
+- **Practice Final Exam** on Canvas
+
+## Exam Content
+
+- **Everything** we have covered this semester is fair game
+- Extra Credit:
+
+        - Federal taxation
+        - Citizen participation
+        
+- Modules 1 through 4
+- Lecture questions on "What is government?" 4 questions
+
+
+## Module 1
+
+- Political thinking and culture
+- The Constitution
+
+        - Separation of powers
+        - Checks and balances
+        - Federalism
+        - Bill of Rights
+        - Enumerated powers
+        - Necessary and proper clause
+
+- Federalism
+
+        - Supremacy clause
+        - Dual federalism
+        - Cooperative federalism
+        - New federalism
+        - Fiscal federalism
+
+- Civil liberties
+
+        - Bill of Rights
+        - 14th Amendment and incorporation
+        - Freedom of speech
+        - Freedom of religion
+        - Freedom of the press
+        - Right to privacy
+        - Due process
+
+## Module 2
+
+- Public opinion
+- Political participation
+
+        - Voting and elections
+        - other forms of participation
+
+- Political parties
+- Interest groups and the Media
+- Congress
+        
+        - Structure
+        - Powers
+        - Committees
+        - Leadership
+        - Functions
+        - Elections
+        
+## Module 3
+
+- The Presidency
+
+        - Roles
+        - Powers
+        - Elections
+        - Impeachment
+        
+- The Bureaucracy
+
+        - Structure
+        - Functions
+        - Types of agencies
+        - Civil service
+        - Regulation
+        
+- Foreign Policy
+
+        - Roles of the President and Congress
+        - Treaties
+        - War powers
+        - Foreign aid
+        - International organizations
+        
+- Domestic policies
+
+        - Economic policy
+        - Environmental policy
+        - Health policy
+        - Income, Welfare, and Education
+        
+## Module 4
+
+- The Judiciary
+
+        - Structure
+        - Jurisdiction
+        - Original vs. Appellate jurisdiction
+        - Decider of fact vs. Decider of law
+        - Precedent
+        
+- Civil Rights
+
+        - Civil Rights vs. Civil Liberties
+        - What is discrimination? Is it always illegal?
+        - Prohibited types of discrimination against **protected classes** is illegal
+        - Equal protection
+        - Affirmative action
+        - Voting rights
+        - Women's rights, LGBTQ rights, and disability rights
+        
+        
+## Important court cases
+
+- Knowing what the court cases are basically about can help you eliminate really bad choices on the exam
+
+        - Know the general categories for each case (slide headings)
+        - Know the specific thing the case addressed (in parentheses by each case)
+        - Then try to know some details about the case
+
+
+## Important Court Cases (Government Structure)
+
+- Marbury v. Madison (established judicial review)
+- McCulloch v. Maryland (federalism - federal supremacy)
+- Prinz v. United States (federalism - state's not agents of the federal government) 
+- United States v. Nixon (executive privilege)
+- Bush v. Gore (elections - equal protection applies to elections)
+
+## Important Court Cases (Civil Rights)
+
+- Dred Scott v. Sandford (denied citizenship to African Americans - major spark of the Civil War)
+- Plessy v. Ferguson (separate but equal allowed - Jim Crow laws)
+- Brown v. Board of Education (overturned Plessy; separate is inherently unequal)
+- Virginia v. Loving (interracial marriage - marriage is fundamental right)
+- Obergefell v. Hodges (same sex marriage)
+
+
+## Important Court Cases (Civil Liberties)
+
+- Griswold v. Connecticut (created the right to privacy - topic was birth control)
+- Roe v. Wade (legalized abortion for first trimester, limited regulation in 2nd trimester to health of the woman, allowed prohibition to protect the fetus in the 3rd trimester)
+- Casey v. Planned Parenthood (abortion - narrowed Roe v. Wade allowing more regulation of abortion)
+
+## Important Court Cases (Civil Liberties)
+
+- Dobbs v. Jackson Women's Health Organization (overturned Roe v. Wade and Casey - made abortion a state issue - *does not ban abortion*) 
+- Lawrence v. Texas (overturned state sodomy laws - right to privacy - ended persecution of homosexual sex)
+
+
+## Important Court Cases (Civil Liberties - Criminal Justice)
+- Gideon v. Wainwright (right to counsel)
+- Miranda v. Arizona (police must inform suspects of rights before questioning)
+- Terry v. Ohio (stop and frisk; reasonable search during questioning)
+
+
+
+
+
+        
+        
+ 
+
+
+
+
+        
+
+        
+        
+## Further background
+        
+https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/
+
+https://constitution.congress.gov/browse/article-3/
+
+
+
+
+## Authorship and License
+
+Cover image created with Imagen 3.0, part of Google's Gemini.
+
+Do not submit to Quizlet, Chegg, Coursehero, or other similar commercial websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+
+
